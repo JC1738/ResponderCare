@@ -3,7 +3,7 @@ layout:     post
 title:      Hello, Welcome
 date:       2020-04-10 16:00:00
 summary:    Responder Care is a website dedicated to First Resonders, Health Care Workers, and their families
-categories: jekyll pixyll
+categories: site responder
 ---
 
 Hello.
