@@ -12,6 +12,7 @@ There are many online resources to track COVID-19.  Below are links to help orga
 - [US](https://www.usa.gov/coronavirus) Government Response to Coronavirus
 - [California](https://covid19.ca.gov/) Official website for COVID-19 for the state of California 
 - [San Francisco](https://sf.gov/topics/coronavirus-covid-19) San Francisco resources 
+- [SF Data](https://data.sfgov.org/stories/s/fjki-2fab) Tracking COVID in San Francisco
 
 ## Compilations
 - [Google](https://www.google.com/covid19/) Collection on Coronavirus 
