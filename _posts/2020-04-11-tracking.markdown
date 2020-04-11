@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      Tracking COVID-19 
+date:       2020-04-11 11:15:00
+summary:    There are many online resources to track COVID-19 
+categories: tracking resources 
+---
+
+There are many online resources to track COVID-19.  Below are links to help organize the various resources. 
+
+## Government 
+- [California](https://covid19.ca.gov/) Official website for COVID-19 for the state of California 
+- [San Francisco](https://sf.gov/topics/coronavirus-covid-19) San Francisco resources 
+
+## Compilations
+- [Google](https://www.google.com/covid19/) Collection on Coronavirus 
+
+## Tracking
+- [John Hopkins](https://coronavirus.jhu.edu/map.html) Map on spread of COVID-19
+- [World](https://www.worldometers.info/coronavirus/) Numbers by country
+- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/world-map.html) Global Map
+
+<blockquote>
+  <p>
+If you can’t figure out your purpose, figure out your passion. For passion will lead you right into your purpose
+  </p>
+  <footer><cite title="T.D. Jakes">T.D. Jakes</cite></footer>
+</blockquote>
