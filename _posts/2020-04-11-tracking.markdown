@@ -20,7 +20,10 @@ There are many online resources to track COVID-19.  Below are links to help orga
 ## Tracking
 - [John Hopkins](https://coronavirus.jhu.edu/map.html) Map on spread of COVID-19
 - [World](https://www.worldometers.info/coronavirus/) Numbers by country
+- [World](https://covidly.com/) Additional world tracking
 - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/world-map.html) Global Map
+- [Bay Area](https://covid-19.direct/metro/BayArea) Bay Area (and additional metros available on the site)
+
 
 <blockquote>
   <p>
