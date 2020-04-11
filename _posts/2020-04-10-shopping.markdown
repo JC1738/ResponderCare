@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Hello, Welcome
+title:      Shopping Hours
 date:       2020-04-10 17:30:00
 summary:    There are special hours dedicated to first responders and health care workers
 categories: special shopping
