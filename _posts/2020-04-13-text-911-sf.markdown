@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      Text 911
+date:       2020-04-13 13:15:00
+summary:    You can now text 911
+categories: deliver shopping
+---
+
+You can now text 911 in San Francisco. The message must be sent in English. Anyone experiencing a police, fire or medical emergency should call 9-1-1 but sometimes being able to text is a better way to get help. It is intended for use in 3 emergency scenarios
+
+- In a situation where it is not safe to place a call to 9-1-1.
+- When an individual is deaf, hard-of-hearing, or has a speech disability.
+- A medical emergency where the person incapable of speaking
+
+
+<blockquote>
+  <p>
+  Next to creating a life, the finest thing a man can do is save one.
+  </p>
+  <footer><cite title="Abraham Lincoln">Abraham Lincoln</cite></footer>
+</blockquote>
