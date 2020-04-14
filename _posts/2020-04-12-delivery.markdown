@@ -1,27 +1,28 @@
 ---
 layout:     post
-title:      Delivery 
+title:      Delivery
 date:       2020-04-12 11:15:00
 summary:    As we try to shelter in place delivery
-categories: deliver shopping 
+categories: deliver shopping
 ---
 
-As we try to shelter in place delivery services provide people a way to maintain social distancing. 
+As we try to shelter in place delivery services provide people a way to maintain social distancing.
 
-## Food 
+## Food
 - [Caviar](https://www.trycaviar.com/) Get food you want.
-- [GrubHub](https://www.grubhub.com/) Order food delivery you’ll love 
-- [Uber Eats](https://www.ubereats.com/) Your favorite food, delivered with Uber 
-- [Postmates](https://postmates.com/)  Food, drinks, groceries, and more available for delivery and pickup. 
+- [GrubHub](https://www.grubhub.com/) Order food delivery you’ll love
+- [Uber Eats](https://www.ubereats.com/) Your favorite food, delivered with Uber
+- [Postmates](https://postmates.com/)  Food, drinks, groceries, and more available for delivery and pickup.
+- [Restaurants](https://sf.eater.com/2020/3/17/21184129/san-francisco-takeout-delivery-coronavirus) San Francisco restaurants open for delivery and takeout
 
-## Groceries 
-- [Shipt](https://www.shipt.com) Shopping for groceries, baby, household cleaning supplies, alcohol*, or electronics 
-- [Instacart](https://www.instacart.com) Groceries delivered in as little as 1 hour 
-- [We Go Shop](https://www.wegoshop.com) Personalized Grocery Shopping & Delivery Service 
+## Groceries
+- [Shipt](https://www.shipt.com) Shopping for groceries, baby, household cleaning supplies, alcohol*, or electronics
+- [Instacart](https://www.instacart.com) Groceries delivered in as little as 1 hour
+- [We Go Shop](https://www.wegoshop.com) Personalized Grocery Shopping & Delivery Service
 
-## Alcohol 
-- [Drizly](https://drizly.com) Beer, wine and liquor delivered in under 60 minutes. 
-- [Saucey](https://www.saucey.com/) Alcohol delivery in minutes. 
+## Alcohol
+- [Drizly](https://drizly.com) Beer, wine and liquor delivered in under 60 minutes.
+- [Saucey](https://www.saucey.com/) Alcohol delivery in minutes.
 
 
 <blockquote>
