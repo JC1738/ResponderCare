@@ -1,0 +1,41 @@
+---
+layout:     post
+title:      Internet at home
+date:       2020-04-15 09:30:00
+summary:    Internet at home is becoming a vital resource
+categories: home resources internet
+---
+
+Internet at home is becoming a vital resource.  I have experienced countless problems getting WIFI signal to areas of our house.  We have tried mesh routers that have helped but didn't completely solve the problem.  Providing a wired connection to portions of the house is ultimately the solution.
+
+However, if you aren't lucky enough to have a home wired with ethernet jacks throughout your home, then an alternative is needed.  One option is powerline adapters, which allow network traffic to travel over your home's electrical lines.  Power over electric sockets should deliver a strong internet signal throughout your house; however, in my practical experience, it fell quite short in providing fast internet.  Factors like your homes wiring, number of circuits, other devices plugged in, can degrade the actual speed delivered.
+
+The one solution that has helped our household is MoCA 2.0, which enables providing an ethernet connection over a home's existing coax wiring.  Unlike ethernet jacks throughout a home, most houses have coax throughout, and this solution allows using that existing wiring to deliver fast ethernet signal.
+<br>
+<br>
+<br>
+<br>
+Below are examples of each of the types of equipment mentioned above.
+<br>
+<br>
+
+### Mesh Routers
+- [eero](https://www.amazon.com/Introducing-eero-mesh-WiFi-system-3-pack-/dp/B07WMLPSRL/) eero mesh WiFi system
+- [Google WiFi](https://www.amazon.com/Google-WiFi-system-3-Pack-replacement/dp/B01MAW2294/) Google WiFi system
+
+### Ethernet over electric outlets
+- [Netgear Powerline](https://www.amazon.com/NETGEAR-Powerline-Adapter-Ethernet-Passthrough/dp/B0778Y6K6N/) Netgear Powerline Adapter
+- [Zyxel Pass-Thru](https://www.amazon.com/Pass-Thru-Ethernet-Adapter-Powerline-PLA5456KIT/dp/B0173CGWFY/) Zyzel Pass-Thru Ethernet Adapter
+
+### Ethernet over coax (MoCA 2.0)
+- [Actiontec](https://www.amazon.com/Actiontec-Bonded-Ethernet-Adapter-ECB6200K02/dp/B013J7O3X0) Actiontec Bonded MoCA 2.0 Ethernet to Coax Adapter
+- [Comtrend](https://www.amazon.com/Comtrend-GCA-6000KIT-Powerline-1200Mbps-Ethernet/dp/B01MRV4WA1/) Comtrend GCA-6000KIT
+
+
+
+<blockquote>
+  <p>
+Too often we underestimate the power of a touch, a smile, a kind word, a listening ear, an honest accomplishment, or the smallest act of caring, all of which have the potential to turn a life around.
+  </p>
+  <footer><cite title="Leo Buscaglia">Leo Buscaglia</cite></footer>
+</blockquote>
