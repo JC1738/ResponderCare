@@ -1,5 +1,5 @@
 # ResponderCare
 
-[respondercare](https://responder.care)
+[Responder Care](https://responder.care)
 
-Work in progres...
+Blog / Website dedicated to helping first responders and their families.
