@@ -11,7 +11,7 @@ The COVID Tracking Project is a volunteer organization launched from The Atlanti
 
 <br>
 - [COVID Tracking](https://covidtracking.com/) Home Page
-- [COVID Tracking Data](https://covidtracking.com/data) Data breakdown
+- [COVID Tracking Data](https://covidtracking.com/data) State by State breakdown
 <br>
 
 <blockquote>
