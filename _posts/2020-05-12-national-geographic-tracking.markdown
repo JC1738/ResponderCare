@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      COVID in the U.S.
-date:       2020-05-02 17:00:00
+date:       2020-05-12 17:00:00
 summary:    Coronavirus in the U.S. Where are the cases are growing and declining
 categories: resources data
 ---
